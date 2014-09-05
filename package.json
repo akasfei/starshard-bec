@@ -1,0 +1,19 @@
+{
+  "name": "starshard-bec",
+  "version": "0.0.1",
+  "description": "HUST BEC recruit 2014",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akasfei/starshard-bec.git"
+  },
+  "author": "akasfei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akasfei/starshard-bec/issues"
+  },
+  "homepage": "https://github.com/akasfei/starshard-bec"
+}

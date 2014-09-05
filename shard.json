@@ -1,0 +1,6 @@
+{
+  "name": "bec",
+  "description": "BEC recruit",
+  "usedb": "true",
+  "static": "public"
+}
