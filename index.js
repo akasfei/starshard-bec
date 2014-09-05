@@ -50,7 +50,6 @@ shard.routes = [
       });
     }
   }
-]
-);
+];
 
 module.exports = shard;
